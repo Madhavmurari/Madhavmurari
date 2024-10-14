@@ -63,7 +63,7 @@ To become an **AI/ML Developer** specializing in **deep learning** and **compute
 
 ### 📫 Connect with Me  
 - **Email**: murarimadhav2468@gmail.com  
-- **GitHub**: [github.com/madhav-murari]([https://github.com/madhav-murari](https://github.com/Madhavmurari))  
+- **GitHub**: [github.com/madhav-murari](https://github.com/madhav-murari)   
 - **LinkedIn**: [linkedin.com/in/madhav-murari](https://linkedin.com/in/madhav-murari)
 
 ---
