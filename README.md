@@ -16,7 +16,7 @@ To become an **AI/ML Developer** specializing in **deep learning** and **compute
 ---
 
 ### 🛠 Skills & Expertise  
-- **Programming Languages**: Python, C++
+- **Programming Languages**: Python, C
 - **Machine Learning & Deep Learning**: TensorFlow, Keras, PyTorch
 - **NLP**: EasyOCR, Keras OCR
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
