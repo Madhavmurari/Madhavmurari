@@ -30,19 +30,16 @@ To become an **AI/ML Developer** specializing in **deep learning** and **compute
 1. **Conversational-Q-A-Chatbot-using-Gemini-Pro-LLM**  
    Building an interactive chatbot leveraging **LLM** and **Streamlit** to provide accurate, real-time responses.
 
-2. **Incremental Semi-Supervised Classifier for Evolving Data Streams**  
-   Developed a classifier for handling dynamic and evolving data, adapting models to new data over time.
-
-3. **Stock Price Prediction Model**  
+2. **Stock Price Prediction Model**  
    Designed and implemented a stock price prediction system based on **moving average** techniques.
 
-4. **House Price Prediction**  
-   Analyzed various house features to predict property prices using **ML models** in **Google Colab**.
+3. **House Price Prediction**  
+   Analyzed various house features to predict property prices using **ML models**.
 
-5. **Social Media Sentiment Analysis**  
+4. **Social Media Sentiment Analysis**  
    Implemented sentiment analysis models to capture public opinion trends across social platforms.
 
-6. **Credit Card Fraud Detection**  
+5. **Credit Card Fraud Detection**  
    Created a real-time fraud detection system utilizing **machine learning** algorithms.
 
 ---
@@ -63,7 +60,7 @@ To become an **AI/ML Developer** specializing in **deep learning** and **compute
 
 ### 📫 Connect with Me  
 - **Email**: murarimadhav2468@gmail.com  
-- **GitHub**: [github.com/madhav-murari](https://github.com/Madhavmurari)   
+- **GitHub**: [github.com/Madhavmurari](https://github.com/Madhavmurari)   
 - **LinkedIn**: [linkedin.com/in/madhav-murari](https://linkedin.com/in/madhav-murari)
 
 ---
